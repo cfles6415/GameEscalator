@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.251" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/arrow_image.xml" value="0.1955" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/bottomline_gameviewer.xml" value="0.3515" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/button_sent.xml" value="0.176" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/buttonradus.xml" value="0.2555" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/change_password_key.xml" value="0.197" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/change_username_profile.xml" value="0.196" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/close_image.xml" value="0.196" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/commentradious.xml" value="0.22" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/commentradus.xml" value="0.306" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/edit_image.xml" value="0.1955" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/edit_review_image.xml" value="0.197" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/edit_username_background.xml" value="0.1955" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/floating_point_image.xml" value="0.197" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/gameradus.xml" value="0.3325" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/ic_baseline_build_setting.xml" value="0.1955" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.196" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/ic_baseline_keyboard_arrow_right_24.xml" value="0.1955" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.251" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/ic_baseline_message_24.xml" value="0.196" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.1955" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.196" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/ic_baseline_star_outline_24.xml" value="0.196" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.251" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.251" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.251" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.251" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/key_image.xml" value="0.1955" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/my_review_radus.xml" value="0.1955" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/profile_toolbar.xml" value="0.1955" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/radus.xml" value="0.2972222222222222" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/rate_image.xml" value="0.196" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/rate_radus.xml" value="0.25" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/rated_star.xml" value="0.196" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/review_options_image.xml" value="0.1955" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/reviewbutton.xml" value="0.367" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/rightline.xml" value="0.3515" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/submit_button_disabled.xml" value="0.3575" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/testdrawable.xml" value="0.3575" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/textlines.xml" value="0.33" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/userradus.xml" value="0.306" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/write_a_review.xml" value="0.3385" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/drawable/xmlradus.xml" value="0.1975" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/activity_bottom.xml" value="0.25" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/activity_bottom_navigation.xml" value="0.190625" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/activity_game_details.xml" value="0.22" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/activity_home.xml" value="0.22585227272727273" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/activity_home_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/activity_home_page.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/activity_logo_vent.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/activity_main2.xml" value="0.22" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/activity_nickname.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/activity_profile_page.xml" value="0.1875" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/activity_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/activity_register_user.xml" value="0.25" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/activity_review_page.xml" value="0.33" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/activity_splash_screen.xml" value="0.15519452757588714" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/app_bar_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/change_name_dialog_layout.xml" value="0.25" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/change_password_layout.xml" value="0.22" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/change_username_layout.xml" value="0.25" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/content_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/example_item.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/fragment_log_out.xml" value="0.25" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/fragment_notifications.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/fragment_setting.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/fragment_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/fragments_setting.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/game_details_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/good.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/home_fragment.xml" value="0.1875" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/message_item.xml" value="0.33" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/nav_header_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/reset_password.xml" value="0.3009833262077811" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/row_comment.xml" value="0.45727482678983833" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/splash_screen.xml" value="0.15519452757588714" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/layout/your_reviews_item.xml" value="0.33" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/menu/activity_home2_drawer.xml" value="0.33" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/menu/bottom_navigation.xml" value="0.25" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/menu/menu.xml" value="0.22" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/menu/popup_edit_menu.xml" value="0.2" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.294" />
+        <entry key="..\:/Users/taher/AndroidStudioProjects/GameEscalator2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.294" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

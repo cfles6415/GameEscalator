@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view" >
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="Home"
+            android:checkable="true"
+            app:showAsAction="ifRoom" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_baseline_person_24"
+            android:title="Profile"
+            android:checkable="true"
+            app:showAsAction="ifRoom" />
+        <item
+            android:id="@+id/nav_signout"
+            android:icon="@drawable/ic_baseline_login_24"
+            android:title="Sign Out"
+            android:checkable="true"
+            app:showAsAction="ifRoom" />
+    </group>
+
+</menu>

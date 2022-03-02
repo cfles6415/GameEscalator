@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "943538006543",
+    "project_id": "gameescalator-fce61",
+    "storage_bucket": "gameescalator-fce61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943538006543:android:6aeb38ea2d4b8f05e7517a",
+        "android_client_info": {
+          "package_name": "com.example.gameescalator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943538006543-d0bdvlbubbroqg3h3p3g1sbf966lcsqg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gameescalator",
+            "certificate_hash": "702df5ffc690e989c02910b87cdbc847c9059867"
+          }
+        },
+        {
+          "client_id": "943538006543-85u9o2eqtp7nt0oksdblgv5am8tlica4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClGJzFajY63kVCrkqAqNYnOf-U77b1_uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943538006543-85u9o2eqtp7nt0oksdblgv5am8tlica4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

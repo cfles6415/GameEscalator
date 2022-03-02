@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Home.ReviewPage"
+    android:background="@color/appColor">
+
+    <ImageButton
+        android:id="@+id/closeButton"
+        android:layout_width="27dp"
+        android:layout_height="30dp"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="5dp"
+        android:background="@color/appColor"
+        android:src="@drawable/close_image" />
+
+    <ImageView
+        android:id="@+id/imageReview"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_below="@id/revOn"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:adjustViewBounds="true"
+        android:background="@null"
+        android:scaleType="fitCenter"
+        android:src="@drawable/l1" />
+
+    <TextView
+        android:id="@+id/revOn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="2dp"
+        android:layout_marginTop="10dp"
+        android:text="Reviewing on"
+        android:textAlignment="center"
+        android:textColor="@color/textColor"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/nameReview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@id/imageReview"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@id/imageReview"
+        android:text="Game Review"
+        android:textAlignment="center"
+        android:textColor="@color/textColor"
+        android:textSize="17dp" />
+
+    <TextView
+        android:id="@+id/gameCreator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/nameReview"
+        android:layout_alignStart="@id/nameReview"
+        android:layout_marginTop="14dp"
+        android:paddingLeft="3dp"
+        android:text="By Rockstar Games"
+        android:textSize="14sp"
+        android:textStyle="bold|italic" />
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_below="@id/gameCreator"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="15dp"
+        android:background="#e1e5ec" />
+
+    <LinearLayout
+        android:id="@+id/starsView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/view"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp">
+
+        <ImageButton
+            android:id="@+id/star1"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="#252627"
+            android:src="@drawable/ic_baseline_star_outline_24" />
+
+        <ImageButton
+            android:id="@+id/star2"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="#252627"
+            android:src="@drawable/ic_baseline_star_outline_24" />
+
+        <ImageButton
+            android:id="@+id/star3"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="#252627"
+            android:src="@drawable/ic_baseline_star_outline_24" />
+
+        <ImageButton
+            android:id="@+id/star4"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="#252627"
+            android:src="@drawable/ic_baseline_star_outline_24" />
+
+        <ImageButton
+            android:id="@+id/star5"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="#252627"
+            android:src="@drawable/ic_baseline_star_outline_24" />
+
+        <ImageButton
+            android:id="@+id/star6"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="#252627"
+            android:src="@drawable/ic_baseline_star_outline_24" />
+
+        <ImageButton
+            android:id="@+id/star7"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="#252627"
+            android:src="@drawable/ic_baseline_star_outline_24" />
+
+        <ImageButton
+            android:id="@+id/star8"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="#252627"
+            android:src="@drawable/ic_baseline_star_outline_24" />
+
+        <ImageButton
+            android:id="@+id/star9"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="#252627"
+            android:src="@drawable/ic_baseline_star_outline_24" />
+
+        <ImageButton
+            android:id="@+id/star10"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="#252627"
+            android:src="@drawable/ic_baseline_star_outline_24" />
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/rateWord"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/starsView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:text="Rate"
+        android:textColor="@color/textColor"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/view2"
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_below="@id/rateWord"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="15dp"
+        android:background="#e1e5ec" />
+
+    <EditText
+        android:id="@+id/reviewText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/view2"
+        android:layout_alignBottom="@id/view3"
+        android:background="@null"
+        android:gravity="top"
+        android:hint="What do you think about the game?"
+        android:paddingLeft="10dp"
+        android:textColor="#4d525b"
+        android:textSize="17sp"
+        android:tooltipText="Write your review here." />
+
+    <View
+        android:id="@+id/view3"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_above="@id/submitReviewButton"
+        android:layout_marginBottom="10dp"
+        android:background="#4d525b" />
+
+    <Button
+        android:id="@+id/submitReviewButton"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:background="@drawable/submit_button_disabled"
+        android:text="Submit"
+        android:textAlignment="center"
+        android:textColor="@color/textColor"
+        android:textSize="15sp" />
+
+
+</RelativeLayout>

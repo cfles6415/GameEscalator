@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#252627">
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#252627"
+        android:foreground="?android:attr/selectableItemBackground"
+        app:cardElevation="2dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:background="@drawable/xmlradus"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="8dp">
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:background="@drawable/rightline"
+                android:src="@drawable/l1"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="131dp"
+                android:layout_margin="8dp"
+                android:background="#252627"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/gameName"
+                    android:text="game name"
+                    android:layout_width="228dp"
+                    android:layout_height="30dp"
+                    android:textColor="@color/textColor"
+                    android:autoSizeTextType="uniform"
+                    android:textStyle="bold" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/rate_radus"
+                    android:layout_marginLeft="10dp">
+
+                    <ImageView
+                        android:id="@+id/ratedUnrated"
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:background="@drawable/rate_image"/>
+                    <TextView
+                        android:id="@+id/gameRates"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="15sp"
+                        android:text="10"
+                        android:textColor="@color/textColor"
+                        android:textStyle="bold|italic"
+                        android:layout_gravity="center"/>
+
+                   <TextView
+                       android:id="@+id/rateScaleWord"
+                       android:layout_width="wrap_content"
+                       android:layout_height="wrap_content"
+                       android:text="Masterpiece"
+                       android:textStyle="bold"
+                       android:textSize="17sp"
+                       android:textColor="@color/textColor"
+                       android:layout_gravity="center"
+                       android:layout_marginLeft="10dp"
+                       />
+                </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:orientation="horizontal"
+                android:layout_marginLeft="10dp">
+
+
+                <ImageView
+                    android:background="@drawable/ic_baseline_message_24"
+                    android:id="@+id/reviewsimg"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center" />
+
+                <TextView
+                    android:id="@+id/reviewersCount"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="422321"
+                    android:paddingBottom="2dp"
+                    android:layout_marginLeft="3dp"
+                    android:textSize="12sp" />
+                </LinearLayout>
+
+
+                <TextView
+                    android:id="@+id/gameCreator"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="By Rockstar Games"
+                    android:textStyle="italic"
+                    android:layout_marginTop="@dimen/activity_vertical_margin"
+                    android:textSize="12sp"/>
+
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>
